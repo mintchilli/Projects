@@ -4,6 +4,7 @@
 - 3 pages
 - 6 mois d'hébergement
 - 300$
+
 ### extras:
 - 15$ par page
 - 15$ pour 3 mois d'hébergement additionel
@@ -15,6 +16,7 @@
 - 1 fonctionalité
 - 6 mois d'hébergement
 - 500$
+
 ### extras:
 - 40$ par fonctionalité
 - 20$ pour 3 mois d'hébergement additionel
